@@ -1,0 +1,8 @@
+include ':recyclerviewtest'
+include ':staggeredgridlayout'
+include ':titlelayout'
+include ':percent'
+include ':listview'
+include ':recyclerview'
+include ':app'
+rootProject.name = "M3"
